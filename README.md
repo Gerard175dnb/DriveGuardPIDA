@@ -7,7 +7,7 @@
 </h1>
 
 # <h1 align="center">**`Siniestros viales`**</h1>
-![ANSV](Logos-ImágenesPIDA2\logoAnsv.png)![ALPLV](Logos-ImágenesPIDA2\1630597122772.jpg)![Driveguard](Logos-ImágenesPIDA2\Driveguard.logo.jpg)
+![ANSV](Logos-ImagenesPIDA2\logoAnsv.png)![ALPLV](Logos-ImagenesPIDA2\1630597122772.jpg)![Driveguard](Logos-ImagenesPIDA2\Driveguard.logo.jpg)
 
 # *DriveGuard Safety Enterprise, Drive safe to a better future*
 ### ***Introducción:***
@@ -29,7 +29,7 @@ Solo en 2022, se contabilizaron 3.828 muertes fatales en este tipo de hechos. Lo
 
 Es por eso que desde DriveGuard Safety Enterprise, una empresa preocupada por el bienestar de los conductores de distintos vehículos y los peatones circulantes, realizamos el siguiente análisis estadístico enfocado en mostrar las diferentes problemáticas que se presentan en el día a día en la conducción en la ciudad,junto con la Asociación Luchemos por la Vida, abarcaremos todos los aspectos posibles para reflejar el problema y brindar una solución óptima a lo solicitado, esperamos que el consiguiente análisis logre satisfacer sus espectativas.
 
-![Texto alternativo](Logos-ImágenesPIDA2\accidente.png)
+![Texto alternativo](Logos-ImagenesPIDA2\accidente.png)
 
 # Índice de vídeos explicativos / informes sobre seguridad vial: 
 
@@ -107,26 +107,26 @@ Luego de nuestro proceso de ETL, procedimos a darle una visión gráfica a nuest
 ### Rol de las víctimas al momento del siniestro: 
 
 
-![Rol de las víctimas](Logos-ImágenesPIDA2\Víctimas.png)
+![Rol de las víctimas](Logos-ImagenesPIDA2\Víctimas.png)
 
 Tabla proporcionada por la asociación Luchemos por la Vida, explicando el rol que ocupaban las víctimas en accidentes fatales en 2021
 
 
-![Uso del celular](Logos-ImágenesPIDA2\Celular.jpg)
-![Uso celular peatones](Logos-ImágenesPIDA2\CelularPeatones.jpg)
+![Uso del celular](Logos-ImagenesPIDA2\Celular.jpg)
+![Uso celular peatones](Logos-ImagenesPIDA2\CelularPeatones.jpg)
 
 Un aspecto importante a tener en cuenta es el uso de celulares en la conducción y al caminar, ya que posee un alto porcentaje de distracción a nuestros alrededores, junto con el alcohol, es una de las principales razones de accidentes
 
 ### Porcentaje de accidentes por tipo de rol:
 
 
-![Cantidad de accidentes x Rol](Logos-ImágenesPIDA2\victimasxrol.png)
+![Cantidad de accidentes x Rol](Logos-ImagenesPIDA2\victimasxrol.png)
 
 En éste gráfico podemos observar el rol que tenía la víctima al momento del accidente, siendo principalmente conductores de vehículos, seguido por peatones y luego pasajeros/acompañantes damnificados, más adelante observaremos con más detalle acerca de qué punto de interés se puede utilizar para realizar una investigación sobre éstos datos
 
 ### Cantidad de accidentes a lo largo del tiempo por Comuna:
 
-![Accidentes x Año ](Logos-ImágenesPIDA2\siniestrosxaños.png)
+![Accidentes x Año ](Logos-ImagenesPIDA2\siniestrosxaños.png)
 
 Éste gráfico de líneas (un poco confuso, pero permítame explicarlo) representa la cantidad de accidentes por comuna, el cual nos deja denotar que la Comuna 1 posee más accidentes que las demás, observamos a nivel global un descenso de accidentes entre el final de 2019 y comienzos/mitad de 2020, ésto lo asociamos a la pandemia, ya que en marzo de 2020 se instauró el aislamiento social, limitando en gran cantidad el transito vehicular en toda la ciudad que estamos analizando.
 Es por ésta razón que tenemos una disminución drástica de los accidentes, pero como observamos, al llegar a finales de 2020, volvemos lamentablemente a un incremento bastante drástico de accidentes, creemos que ésto se debe a que la gente, a costa de su propia seguridad por la pandemia, decidió salir igual, ya sea de vacaciones o para visitar algún familiar lejano, lo cual pudo provocar en varias oportunidades accidentes viales.
@@ -134,7 +134,7 @@ Es por ésta razón que tenemos una disminución drástica de los accidentes, pe
 ### Cantidad de víctimas por comuna:
 
 
-![Víctimas x comuna ](Logos-ImágenesPIDA2\cantvictimasxcomuna.png)
+![Víctimas x comuna ](Logos-ImagenesPIDA2\cantvictimasxcomuna.png)
 
 Como podemos observar, en la Ciudad Autónoma de Buenos Aires, poseemos 15 comunas, de la 1 a la 15, las cuales son agrupaciones de 2 o más barrios adyacentes
 El gráfico representa la suma total de víctimas por cada comuna, un detalle bastante importante a tener en cuenta si se observa que la mayoria de los accidentes ocurrieron en la Comuna número 1
@@ -143,12 +143,12 @@ La comuna número 1 es, por decir, la más importante en la capital, en ella se 
 
 # Atracciones turísticas y recorridos:
 
-![Atracciones para turistas](Logos-ImágenesPIDA2\atracciones.png)
+![Atracciones para turistas](Logos-ImagenesPIDA2\atracciones.png)
 
 Como podemos observar en el mapa, la gran mayoría de atracciones turísticas se encuentra en la Comuna 1, gran punto para investigar más a fondo como podriamos resolver la problematica de los accidentes.
 Desde un café con figuras de cera de famosos Argentinos, hasta plazas, teatros, calles enteras y pizzerías de renombre internacional, todo se puede encontrar en ésta Comuna.
 
-![Ruta Turistica](Logos-ImágenesPIDA2\RecorridoTuristico.jpg)
+![Ruta Turistica](Logos-ImagenesPIDA2\RecorridoTuristico.jpg)
 
 
 El recorrido turístico, a su vez, abarca toda la Cómuna 1 y en parte menor, otras comunas, pero principalmente la comuna 1 es la que más atracciones turísticas tiene.
@@ -158,7 +158,7 @@ El recorrido turístico, a su vez, abarca toda la Cómuna 1 y en parte menor, ot
 # Trámites ciudadanos:
 Otro gran punto a investigar, es la convergencia de todos los puntos principales de trámites para el ciudadano, desde un reclamo por un servicio hasta los trámites pertinentes para la transferencia de un vehiculo o inmueble tienen que pasar por oficinas ubicadas específicamente en la Comuna 1 como vemos a continuación: 
 
-![Tramites](Logos-ImágenesPIDA2\mapagestiones.png)
+![Tramites](Logos-ImagenesPIDA2\mapagestiones.png)
 
 # Conclusión
 
@@ -166,7 +166,7 @@ Estimamos que éstos puntos de interes que convergen en una misma zona, son los 
 
 ### Cantidad de víctimas por tipo de vehículo:
 
-![victimas x vehiculo](Logos-ImágenesPIDA2\victimasxvehiculo.png)
+![victimas x vehiculo](Logos-ImagenesPIDA2\victimasxvehiculo.png)
 
 En éste grafico podemos observar los tipos de vehículo que conducían las víctimas por accidente, representando en primer lugar los motovehículos, seguido en segundo lugar por los peatones y en tercer lugar los automóviles, 
 
@@ -174,7 +174,7 @@ En éste grafico podemos observar los tipos de vehículo que conducían las víc
 
 El Observatorio de Movilidad y Seguridad Vial (OMSV) nos solicitó 2 indicadores de desempeño, el primero nos pide como objetivo reducir en un 10% la tasa de mortalidad en la ciudad de Buenos aires, objetivo el cuál se cumple en ciertos rangos de tiempo 
 
-![KPI](Logos-ImágenesPIDA2\KPI1.png)
+![KPI](Logos-ImagenesPIDA2\KPI1.png)
 
 Como se puede observar en la imagen, en el primer semestre de 2019 el objetivo se cumple en un -24.52% respecto al semestre numero 2 del año 2018, logrando ampliamente el objetivo solicitado
 
@@ -186,7 +186,7 @@ A comparación del primer semestre, el segundo semestre del 2020 fue más trági
 
 Nuestro indicador de desempeño número  2 nos solicita cumplir con la baja de mortalidad para motovehículos en un -7% respecto al año anterior
 
-![KPI2](Logos-ImágenesPIDA2\KPÌ2.png)
+![KPI2](Logos-ImagenesPIDA2\KPÌ2.png)
 
 Se observa en los gráficos, que el año seleccionado es 2019, el cual cumple con el objetivo propuesto por el OMSV triplicando el descenso de la tasa de mortalidad en un -21.31% respecto al año 2018
 
