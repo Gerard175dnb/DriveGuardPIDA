@@ -7,7 +7,7 @@
 </h1>
 
 # <h1 align="center">**`Siniestros viales`**</h1>
-![ANSV](Logos-ImagenesPIDA2\logoAnsv.png)![ALPLV](Logos-ImagenesPIDA2\1630597122772.jpg)![Driveguard](Logos-ImagenesPIDA2\Driveguard.logo.jpg)
+![ANSV](https://github.com/Gerard175dnb/DriveGuardPIDA/blob/main/Logos-ImagenesPIDA2/logoAnsv.png?raw=true)![ALPLV](Logos-ImagenesPIDA2\1630597122772.jpg)![Driveguard](Logos-ImagenesPIDA2\Driveguard.logo.jpg)
 
 # *DriveGuard Safety Enterprise, Drive safe to a better future*
 ### ***Introducción:***
