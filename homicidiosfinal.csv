@@ -98,7 +98,7 @@
 104,132,Pasajero_Acompañante,Auto,Masculino,30,2016-10-10 00:00:00,1,2016-10-10,02:30:00,Av San Juan Y 24 De Noviembre,Avenida,3,-58.41036975,-34.62477021,Auto-Pasajeros,Pasajeros,2,2016
 105,133,Conductor,Moto,Masculino,41,2016-10-25 00:00:00,1,2016-10-14,00:05:00,Av Las Heras Y Sanchez De Bustamante,Avenida,14,-58.40204698,-34.58342690,Moto-Auto,Auto,2,2016
 106,134,Conductor,Moto,Masculino,25,2016-10-23 00:00:00,1,2016-10-23,05:00:00,Av Piedra Buena Y 2 De Abril 1982,Avenida,8,-58.48935287,-34.67648597,Moto-Objeto Fijo,Objeto Fijo,2,2016
-108,136,Conductor,Moto,Sd,42,2016-10-25,1,2016-10-25,00:00:00,Au Buenos Aires - La Plata Km. 4,Autopista,4,.,.,Moto-Cargas,Cargas,2,2016
+108,136,Conductor,Moto,Sd,42,2016-10-25,1,2016-10-25,00:00:00,Au Buenos Aires - La Plata Km. 4,Autopista,4,0,0,Moto-Cargas,Cargas,2,2016
 109,137,Conductor,Moto,Masculino,30,2016-10-25,1,2016-10-25,00:39:00,Av San Martin Y Ladines,Avenida,11,-58.51537091,-34.59035925,Moto-Moto,Moto,2,2016
 110,138,Ciclista,Bicicleta,Femenino,33,2016-10-27,1,2016-10-27,20:30:00,Av Cabildo Y Blanco Encalada,Avenida,13,-58.45909670,-34.55922742,Bicicleta-Cargas,Cargas,2,2016
 111,139,Pasajero_Acompañante,Moto,Femenino,35,2016-10-28,1,2016-10-28,23:00:00,Av Presidente Figueroa Alcorta Y Av Dorrego,Avenida,14,-58.42008769,-34.56539579,Moto-Moto,Moto,2,2016
@@ -167,13 +167,13 @@
 179,179,Conductor,Moto,Femenino,40,2017-04-01 00:00:00,1,2017-04-01,19:00:00,Av. Castañares Y Lautaro,Avenida,7,-58.44516857,-34.64363363,Moto-Auto,Auto,1,2017
 180,40,Conductor,Auto,Masculino,43,2017-04-03 00:00:00,1,2017-04-03,09:40:00,Av. Camino Ciudad Unuversitaria Y Tte. Guiraldes,Avenida,13,-58.43834197,-34.54560369,Multiple,Multiple,1,2017
 181,181,Conductor,Moto,Masculino,17,2017-04-03,1,2017-04-03,23:15:00,Baldomero Fernandez Moreno 2186,Calle,7,-58.45485084,-34.63531854,Moto-Auto,Auto,1,2017
-182,42,Conductor,Moto,Masculino,42,2017-04-10 00:00:00,1,2017-04-10,09:00:00,Av. Leopoldo Lugones Pkm 6900,Gral Paz,14,.,.,Moto-Cargas,Cargas,1,2017
+182,42,Conductor,Moto,Masculino,42,2017-04-10 00:00:00,1,2017-04-10,09:00:00,Av. Leopoldo Lugones Pkm 6900,Gral Paz,14,0,0,Moto-Cargas,Cargas,1,2017
 183,45,Conductor,Moto,Masculino,21,2017-04-14 00:00:00,1,2017-04-14,06:15:00,Nogoya 5940,Calle,10,-58.52449285,-34.62454175,Moto-Objeto Fijo,Objeto Fijo,1,2017
 184,184,Conductor,Moto,Masculino,37,2017-04-23 00:00:00,1,2017-04-23,06:30:00,Av. Argentina Y Av. Corvalan,Avenida,8,-58.46713742,-34.67198790,Moto-Auto,Auto,1,2017
 185,49,Peaton,Peaton,Masculino,22,2017-04-27 00:00:00,1,2017-04-27,18:16:00,Av. Fernandez De La Cruz Y Varela,Avenida,8,-58.43850413,-34.65554754,Peaton-Pasajeros,Pasajeros,1,2017
-186,186,Conductor,Moto,Masculino,46,2017-04-28 00:00:00,2,2017-04-28,11:08:08,Au Perito Moreno Y Ramal Enlace Au1/Au6,Autopista,9,.,.,Moto-Cargas,Cargas,1,2017
-187,187,Pasajero_Acompañante,Moto,Masculino,16,2017-04-28 00:00:00,2,2017-04-28,11:08:08,Au Perito Moreno Y Ramal Enlace Au1/Au6,Autopista,9,.,.,Moto-Cargas,Cargas,1,2017
-188,188,Conductor,Auto,Masculino,33,2017-05-01 00:00:00,1,2017-05-01,03:47:47,Au Dellepiane 2400,Autopista,7,.,.,Auto-Auto,Auto,1,2017
+186,186,Conductor,Moto,Masculino,46,2017-04-28 00:00:00,2,2017-04-28,11:08:08,Au Perito Moreno Y Ramal Enlace Au1/Au6,Autopista,9,0,0,Moto-Cargas,Cargas,1,2017
+187,187,Pasajero_Acompañante,Moto,Masculino,16,2017-04-28 00:00:00,2,2017-04-28,11:08:08,Au Perito Moreno Y Ramal Enlace Au1/Au6,Autopista,9,0,0,Moto-Cargas,Cargas,1,2017
+188,188,Conductor,Auto,Masculino,33,2017-05-01 00:00:00,1,2017-05-01,03:47:47,Au Dellepiane 2400,Autopista,7,0,0,Auto-Auto,Auto,1,2017
 189,52,Peaton,Peaton,Femenino,47,2017-05-05 00:00:00,1,2017-05-05,03:40:00,Av. Gral. Paz Y Goleta Julia,Gral Paz,8,-58.49413799,-34.68095739,Peaton-Cargas,Cargas,1,2017
 190,190,Conductor,Moto,Masculino,28,2017-05-05 00:00:00,1,2017-05-05,20:16:22,Vieytes Y Villarino,Calle,4,-58.37547846,-34.65326075,Moto-Cargas,Cargas,1,2017
 191,191,Pasajero_Acompañante,Moto,Femenino,20,2017-05-07 00:00:00,1,2017-05-07,21:00:00,Av. De Los Constituyentes Y Pedro Moran,Avenida,15,-58.48680218,-34.58689719,Moto-Auto,Auto,1,2017
@@ -248,7 +248,7 @@
 263,263,Peaton,Peaton,Femenino,60,2017-11-17 00:00:00,1,2017-11-17,11:45:00,Av. Gral. Enrique Mosconi Y San Nicolas,Avenida,11,-58.51280715,-34.59279388,Peaton-Cargas,Cargas,2,2017
 264,264,Pasajero_Acompañante,Moto,Masculino,25,2017-11-19 00:00:00,1,2017-11-19,10:30:00,Av. Lafuente Y Av. Eva Peron,Avenida,7,-58.46258582,-34.64385704,Moto-Objeto Fijo,Objeto Fijo,2,2017
 265,265,Pasajero_Acompañante,Auto,Femenino,15,2017-11-19 00:00:00,1,2017-11-19,22:30:00,Av. Cnel. Roca Y Av. Escalada,Avenida,8,-58.45064148,-34.68003614,Auto-Objeto Fijo,Objeto Fijo,2,2017
-266,266,Conductor,Moto,Masculino,24,2017-11-19 00:00:00,1,2017-11-19,23:22:17,Au Arturo Frondizi Pkm 3100,Autopista,4,.,.,Moto-Pasajeros,Pasajeros,2,2017
+266,266,Conductor,Moto,Masculino,24,2017-11-19 00:00:00,1,2017-11-19,23:22:17,Au Arturo Frondizi Pkm 3100,Autopista,4,0,0,Moto-Pasajeros,Pasajeros,2,2017
 267,141,Peaton,Peaton,Femenino,22,2017-11-23 00:00:00,1,2017-11-23,19:45:00,Av. La Plata Y Av. Pedro Goyena,Avenida,6,-58.42717783,-34.62513374,Peaton-Pasajeros,Pasajeros,2,2017
 268,143,Conductor,Auto,Masculino,50,2017-11-25 00:00:00,1,2017-11-25,21:45:00,Trelles Y Gral. Cesar Diaz,Calle,11,-58.46442001,-34.60724519,Auto-Pasajeros,Pasajeros,2,2017
 269,269,Pasajero_Acompañante,Auto,Femenino,50,2017-11-26 00:00:00,1,2017-11-26,06:45:00,Av. Cnel. Roca Y Colectora Av. Gral. Paz,Gral Paz,8,-58.47064556,-34.69843756,Auto-Objeto Fijo,Objeto Fijo,2,2017
@@ -309,7 +309,7 @@
 324,324,Peaton,Peaton,Masculino,84,2018-04-19 00:00:00,1,2018-04-18,18:45:00,Av. Cordoba Y Uriburu Jose E. Pres.,Avenida,2,-58.39872610,-34.59975962,Peaton-Cargas,Cargas,1,2018
 325,325,Peaton,Peaton,Femenino,59,2018-04-20 00:00:00,2,2018-04-20,17:10:00,Av. Rivadavia 1571,Avenida,1,-58.38872177,-34.60885045,Peaton-Auto,Auto,1,2018
 326,326,Peaton,Peaton,Masculino,61,2018-04-20 00:00:00,2,2018-04-20,17:10:00,Av. Rivadavia 1571,Avenida,1,-58.38872177,-34.60885045,Peaton-Auto,Auto,1,2018
-327,327,Peaton,Peaton,Masculino,37,2018-04-21 00:00:00,1,2018-04-21,22:15:00,Autopista Lugones Km 4.7,Autopista,14,.,.,Peaton-Auto,Auto,1,2018
+327,327,Peaton,Peaton,Masculino,37,2018-04-21 00:00:00,1,2018-04-21,22:15:00,Autopista Lugones Km 4.7,Autopista,14,0,0,Peaton-Auto,Auto,1,2018
 328,328,Peaton,Peaton,Femenino,42,2018-04-27 00:00:00,1,2018-04-27,11:00:00,Ramon Freire Y Virrey Olaguer Y Feliu,Calle,13,-58.45686132,-34.57305993,Peaton-Cargas,Cargas,1,2018
 329,329,Peaton,Peaton,Femenino,78,2018-04-27 00:00:00,1,2018-04-27,13:30:00,Av. La Plata Y Fernandez De La Cruz F. Gral. Av.,Avenida,4,-58.42281627,-34.64282424,Peaton-Pasajeros,Pasajeros,1,2018
 330,330,Pasajero_Acompañante,Moto,Masculino,23,2018-04-27 00:00:00,1,2018-04-27,18:43:00,Brandsen Y Perdriel,Calle,4,-58.38666024,-34.63953396,Moto-Cargas,Cargas,1,2018
@@ -541,7 +541,7 @@
 561,561,Conductor,Auto,Masculino,44,2020-05-03 00:00:00,1,2020-04-09,18:42:00,Av. Araoz De Lamadrid Gregorio Gral. Y Brown Alte.,Avenida,4,-58.35791192,-34.63695178,Auto-Cargas,Cargas,1,2020
 562,562,Conductor,Auto,Masculino,53,2020-04-24 00:00:00,1,2020-04-24,07:58:00,Murguiondo 1339,Calle,9,-58.50801713,-34.65177305,Auto-Auto,Auto,1,2020
 563,563,Peaton,Peaton,Masculino,42,2020-05-12 00:00:00,1,2020-05-12,05:35:00,Av. Rivadavia 2551,Avenida,3,-58.40258477,-34.60975108,Peaton-Auto,Auto,1,2020
-564,564,Conductor,Moto,Masculino,28,2020-05-17 00:00:00,1,2020-05-17,06:40:00,Av. Lugones Leopoldo Km 61,Autopista,14,.,.,Moto-Objeto Fijo,Objeto Fijo,1,2020
+564,564,Conductor,Moto,Masculino,28,2020-05-17 00:00:00,1,2020-05-17,06:40:00,Av. Lugones Leopoldo Km 61,Autopista,14,0,0,Moto-Objeto Fijo,Objeto Fijo,1,2020
 565,565,Peaton,Peaton,Masculino,76,2020-05-18 00:00:00,1,2020-05-18,08:00:00,Dellepiane Luis Tte. Gral. Y Montiel,Avenida,8,-58.48267426,-34.68454456,Peaton-Cargas,Cargas,1,2020
 566,566,Peaton,Peaton,Masculino,91,2020-05-23 00:00:00,1,2020-05-19,10:00:00,Av. Scalabrini Ortiz Raul Y Warnes Av.,Avenida,15,-58.44248936,-34.60221948,Peaton-Pasajeros,Pasajeros,1,2020
 567,567,Peaton,Peaton,Masculino,80,2020-06-12 00:00:00,1,2020-06-10,14:00:00,Av. Paz Gral. Y Roffo Angel H. Dr.,Gral Paz,9,-58.52909134,-34.63886726,Peaton-Pasajeros,Pasajeros,1,2020
@@ -555,7 +555,7 @@
 575,575,Peaton,Peaton,Masculino,38,2020-08-29 00:00:00,1,2020-08-29,04:30:00,Av. Fernandez De La Cruz F. Gral. Y Varela Av.,Avenida,8,-58.43850413,-34.65554754,Peaton-Auto,Auto,2,2020
 576,576,Conductor,Auto,Masculino,46,2020-08-30 00:00:00,2,2020-08-30,04:00:00,Av. Las Heras General Y Diaz Cnel. Av.,Avenida,14,-58.40617526,-34.58345898,Auto-Auto,Auto,2,2020
 577,577,Conductor,Auto,Masculino,64,2020-08-30 00:00:00,2,2020-08-30,04:00:00,Av. Las Heras General Y Diaz Cnel. Av.,Avenida,14,-58.40617526,-34.58345898,Auto-Auto,Auto,2,2020
-578,578,Peaton,Peaton,Masculino,44,2020-09-01 00:00:00,1,2020-09-01,19:17:42,Murguiondo 2700,Calle,9,.,.,Peaton-Cargas,Cargas,2,2020
+578,578,Peaton,Peaton,Masculino,44,2020-09-01 00:00:00,1,2020-09-01,19:17:42,Murguiondo 2700,Calle,9,0,0,Peaton-Cargas,Cargas,2,2020
 579,579,Conductor,Auto,Masculino,42,2020-09-12 00:00:00,1,2020-09-12,03:30:00,Av. Castillo Ramon S. Pres. Y Calle 12,Avenida,2,-58.38526125,-34.57805810,Auto-Objeto Fijo,Objeto Fijo,2,2020
 580,580,Conductor,Moto,Masculino,34,2020-09-28 00:00:00,1,2020-09-28,01:45:00,Av. Curapaligue Y Peron Eva,Avenida,7,-58.44750470,-34.63491705,Moto-Pasajeros,Pasajeros,2,2020
 581,581,Peaton,Peaton,Femenino,53,2020-09-29 00:00:00,1,2020-09-29,17:10:00,Av. Diaz Ana Y Soldado De La Frontera,Avenida,8,-58.46745752,-34.68192648,Peaton-Pasajeros,Pasajeros,2,2020
@@ -618,7 +618,7 @@
 638,638,Conductor,Moto,Masculino,30,2021-02-21 00:00:00,1,2021-02-21,01:20:00,Av. Triunvirato Y Larralde Crisologo Av.,Avenida,12,-58.49659234,-34.56353635,Moto-Objeto Fijo,Objeto Fijo,1,2021
 639,639,Peaton,Peaton,Femenino,42,2021-02-21 00:00:00,1,2021-02-21,15:00:00,Potosi Y Gascon,Calle,5,-58.42462955,-34.60727189,Peaton-Cargas,Cargas,1,2021
 640,640,Conductor,Moto,Masculino,39,2021-03-04 00:00:00,1,2021-02-26,05:30:00,Yrigoyen Hipolito Y 24 De Noviembre,Calle,3,-58.41168345,-34.61185625,Moto-Objeto Fijo,Objeto Fijo,1,2021
-642,642,Conductor,Moto,Masculino,24,2021-03-01 00:00:00,1,2021-03-01,09:20:00,Au Buenos Aires La Plata Km 45,Autopista,4,.,.,Moto-Cargas,Cargas,1,2021
+642,642,Conductor,Moto,Masculino,24,2021-03-01 00:00:00,1,2021-03-01,09:20:00,Au Buenos Aires La Plata Km 45,Autopista,4,0,0,Moto-Cargas,Cargas,1,2021
 643,643,Ciclista,Bicicleta,Masculino,5,2021-03-03 00:00:00,1,2021-03-03,16:30:00,Av. Peron Eva Y Piedra Buena Av,Avenida,9,-58.49573651,-34.67006054,Bicicleta-Cargas,Cargas,1,2021
 644,644,Conductor,Moto,Masculino,37,2021-03-11 00:00:00,1,2021-03-11,03:45:00,Av. Paz Gral. Y Dellepiane Luis Tte. Gral,Gral Paz,8,-58.48695354,-34.68795245,Moto-Otro,Otro,1,2021
 645,645,Conductor,Moto,Masculino,36,2021-03-15 00:00:00,1,2021-03-15,02:35:00,Au Frondizi Altura Quinquela Martin Benito,Autopista,4,-58.37562539,-34.64449357,Moto-Objeto Fijo,Objeto Fijo,1,2021
